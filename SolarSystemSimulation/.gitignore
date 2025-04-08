@@ -37,7 +37,5 @@ build/
 ### Mac OS ###
 .DS_Store
 
-./resources/*
-./resources/
 /resources/
 .idea
