@@ -39,3 +39,5 @@ build/
 
 ./resources/*
 ./resources/
+/resources/
+.idea
